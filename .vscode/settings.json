@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "user.h": "c",
+        "meow_tft.h": "c",
+        "meow_tft_ui.h": "c"
+    }
+}
